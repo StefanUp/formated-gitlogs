@@ -1,10 +1,10 @@
-# Get formated gitlogs from terminal
+# Get formatted gitlogs from terminal
 
 > Python script create file with formatted gitlogs
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/StefanUp/formated-gitlogs`
+- Clone this repo to your local machine using `https://github.com/StefanUp/formatted-gitlogs`
 
 ### Setup
 
